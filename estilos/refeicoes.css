@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    height: 100vh;
+}
+
+body{
+    color: white;
+    background-color: black;
+    background-position: center center;
+}
+header h1{
+    padding: 30px 0px;
+    text-align: center;
+}
+header img{
+    padding-top: 30px;
+    display: block;
+    margin: auto;
+}
+header p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 50px 0px;
+    
+    
+}
+footer a{
+    text-decoration: none;
+    color: red;
+}
